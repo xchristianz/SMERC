@@ -1,0 +1,22 @@
+h1, h2 {
+    color: #000000;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+
+body {
+    padding-left: 15px;
+}
+
+.page-header {
+    background-color: #72ae77;
+    margin-top: 0;
+    padding: 30px 30px 30px 40px;
+
+.content {
+    margin-left: 40px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
